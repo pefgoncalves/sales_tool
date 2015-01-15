@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :leads
+
   resources :messages
 
   resources :flows
