@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  flow_id: 
+  message_id: 
+  active: false
+  step: 1
+  interval: 1
+
+two:
+  flow_id: 
+  message_id: 
+  active: false
+  step: 1
+  interval: 1
